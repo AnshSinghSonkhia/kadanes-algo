@@ -1,6 +1,6 @@
 # kadanes-algo
 
-A powerful JavaScript package with 40+ variations of Kadane’s Algorithm to solve various maximum subarray problems.
+A powerful JavaScript package with 40+ variations of Kadane’s Algorithm to solve various subarray problems.
 
 <code><img height="30" src="https://img.shields.io/badge/NPM-111111?style=for-the-badge&logo=npm&logoColor=#c63635"></code> <code><img height="30" src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 
