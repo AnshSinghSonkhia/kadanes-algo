@@ -9,5 +9,4 @@ function maxSubarraySum(arr) {
     return maxSum;
   }
   
-  module.exports = maxSubarraySum;
-  
+module.exports = maxSubarraySum;
