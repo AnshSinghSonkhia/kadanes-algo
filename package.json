@@ -1,0 +1,31 @@
+{
+  "name": "kadanes-algo",
+  "version": "1.0.0",
+  "description": "A powerful JavaScript package with 40+ Kadane’s Algorithm variations.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnshSinghSonkhia/kadanes-algo.git"
+  },
+  "keywords": [
+    "kadane",
+    "algorithm",
+    "kadanes",
+    "algo"
+  ],
+  "author": "Ansh Singh Sonkhia",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AnshSinghSonkhia/kadanes-algo/issues"
+  },
+  "homepage": "https://github.com/AnshSinghSonkhia/kadanes-algo#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
