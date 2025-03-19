@@ -1,6 +1,6 @@
 {
   "name": "kadanes-algo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A powerful JavaScript package with 40+ Kadane’s Algorithm variations.",
   "main": "index.js",
   "directories": {
