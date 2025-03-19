@@ -14,4 +14,4 @@ function maxNonAdjacentSubarraySum(arr) {
     return Math.max(incl, excl);
 }
 
-module.exports = { maxNonAdjacentSubarraySum };
+module.exports = maxNonAdjacentSubarraySum;

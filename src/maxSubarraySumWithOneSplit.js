@@ -20,4 +20,4 @@ function kadane(arr) {
     return maxSum;
 }
 
-module.exports = { maxSubarraySumWithOneSplit };
+module.exports = maxSubarraySumWithOneSplit;

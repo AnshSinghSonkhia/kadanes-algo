@@ -13,4 +13,4 @@ function kadane(arr) {
     return maxSum;
 }
 
-module.exports = { maxSubarrayRangeQuery };
+module.exports = maxSubarrayRangeQuery;

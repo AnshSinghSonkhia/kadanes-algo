@@ -9,4 +9,4 @@ function maxBinarySubarraySum(arr) {
     return maxSum;
 }
 
-module.exports = { maxBinarySubarraySum };
+module.exports = maxBinarySubarraySum;

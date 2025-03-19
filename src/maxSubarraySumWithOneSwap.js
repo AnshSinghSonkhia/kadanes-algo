@@ -19,4 +19,4 @@ function maxSubarraySumWithOneSwap(arr) {
     return maxSum;
 }
 
-module.exports = { maxSubarraySumWithOneSwap };
+module.exports = maxSubarraySumWithOneSwap;

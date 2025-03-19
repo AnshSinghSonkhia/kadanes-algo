@@ -26,4 +26,4 @@ function longestSubarrayWithSum(arr, target) {
     return startIdx !== -1 ? arr.slice(startIdx, startIdx + maxLength) : [];
 }
 
-module.exports = { longestSubarrayWithSum };
+module.exports = longestSubarrayWithSum;

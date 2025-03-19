@@ -14,4 +14,4 @@ function countMaxSumSubarrays(arr) {
     return count;
 }
 
-module.exports = { countMaxSumSubarrays };
+module.exports = countMaxSumSubarrays;

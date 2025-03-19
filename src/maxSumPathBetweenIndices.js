@@ -11,4 +11,4 @@ function maxSumPathBetweenIndices(arr, start, end) {
     return maxSum;
 }
 
-module.exports = { maxSumPathBetweenIndices };
+module.exports = maxSumPathBetweenIndices;

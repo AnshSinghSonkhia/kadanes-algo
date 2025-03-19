@@ -18,4 +18,4 @@ function kadane(arr) {
     return maxSum;
 }
 
-module.exports = { maxSubarrayKConcatSum };
+module.exports = maxSubarrayKConcatSum;

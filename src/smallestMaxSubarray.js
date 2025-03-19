@@ -25,4 +25,4 @@ function smallestMaxSubarray(arr) {
     return arr.slice(bestStart, bestEnd + 1);
 }
 
-module.exports = { smallestMaxSubarray };
+module.exports = smallestMaxSubarray;

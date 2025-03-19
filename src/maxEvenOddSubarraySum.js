@@ -17,4 +17,4 @@ function maxEvenOddSubarraySum(arr) {
     return maxSum;
 }
 
-module.exports = { maxEvenOddSubarraySum };
+module.exports = maxEvenOddSubarraySum;

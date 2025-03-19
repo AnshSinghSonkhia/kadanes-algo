@@ -16,4 +16,4 @@ function maxSlidingWindowKadane(arr, windowSize) {
     return result;
 }
 
-module.exports = { maxSlidingWindowKadane };
+module.exports = maxSlidingWindowKadane;

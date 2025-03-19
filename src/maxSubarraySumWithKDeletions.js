@@ -10,4 +10,4 @@ function maxSubarraySumWithKDeletions(arr, k) {
     return maxSum;
 }
 
-module.exports = { maxSubarraySumWithKDeletions };
+module.exports = maxSubarraySumWithKDeletions;

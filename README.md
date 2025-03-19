@@ -71,7 +71,7 @@ const kadanes = require('kadanes-algo');
 
 const arr = [3, 8, 1, 9, 6, 7, 2, 5];
 console.log(kadanes.maxTwoNonOverlappingSubarrays(arr, 2, 3));  
-// Output: 28
+// Output: 33
 ```
 
 ### Find the Longest Subarray with a Given Sum

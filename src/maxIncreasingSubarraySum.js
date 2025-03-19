@@ -15,4 +15,4 @@ function maxIncreasingSubarraySum(arr) {
     return maxSum;
 }
 
-module.exports = { maxIncreasingSubarraySum };
+module.exports = maxIncreasingSubarraySum;

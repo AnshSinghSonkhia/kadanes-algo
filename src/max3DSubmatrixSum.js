@@ -53,4 +53,4 @@ function kadane1D(arr) {
     return maxSum;
 }
 
-module.exports = { max3DSubmatrixSum };
+module.exports = max3DSubmatrixSum;

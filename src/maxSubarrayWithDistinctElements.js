@@ -17,4 +17,4 @@ function maxSubarrayWithDistinctElements(arr) {
     return maxSum;
 }
 
-module.exports = { maxSubarrayWithDistinctElements };
+module.exports = maxSubarrayWithDistinctElements;

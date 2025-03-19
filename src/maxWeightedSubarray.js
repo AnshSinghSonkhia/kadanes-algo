@@ -23,4 +23,4 @@ function maxWeightedSubarray(arr, weights) {
     return maxSum;
 }
 
-module.exports = { maxWeightedSubarray };
+module.exports = maxWeightedSubarray;

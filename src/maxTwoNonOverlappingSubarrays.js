@@ -23,4 +23,4 @@ function maxTwoNonOverlappingSubarrays(arr, firstLen, secondLen) {
     return totalMax;
 }
 
-module.exports = { maxTwoNonOverlappingSubarrays };
+module.exports = maxTwoNonOverlappingSubarrays;

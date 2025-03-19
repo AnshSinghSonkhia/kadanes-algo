@@ -14,4 +14,4 @@ function maxSumIncreasingSubsequence(arr) {
     return maxSum;
 }
 
-module.exports = { maxSumIncreasingSubsequence };
+module.exports = maxSumIncreasingSubsequence;

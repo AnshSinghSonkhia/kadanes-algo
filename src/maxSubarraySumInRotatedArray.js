@@ -15,4 +15,4 @@ function maxSubarraySumInRotatedArray(arr) {
     return Math.max(maxKadane, totalSum + minKadane);
 }
 
-module.exports = { maxSubarraySumInRotatedArray };
+module.exports = maxSubarraySumInRotatedArray;

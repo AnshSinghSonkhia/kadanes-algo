@@ -13,4 +13,4 @@ function maxXORSubarray(arr) {
     return maxXOR;
 }
 
-module.exports = { maxXORSubarray };
+module.exports = maxXORSubarray;

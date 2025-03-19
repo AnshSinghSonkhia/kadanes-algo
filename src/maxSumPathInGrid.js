@@ -16,4 +16,4 @@ function maxSumPathInGrid(grid) {
     return grid[rows - 1][cols - 1];
 }
 
-module.exports = { maxSumPathInGrid };
+module.exports = maxSumPathInGrid;

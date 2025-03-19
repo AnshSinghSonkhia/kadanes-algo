@@ -16,4 +16,4 @@ function maxSubarraySumWithOneDeletion(arr) {
     return maxSum;
 }
 
-module.exports = { maxSubarraySumWithOneDeletion };
+module.exports = maxSubarraySumWithOneDeletion;

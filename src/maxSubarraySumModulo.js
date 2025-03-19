@@ -16,4 +16,4 @@ function maxSubarraySumModulo(arr, mod) {
     return maxModSum;
 }
 
-module.exports = { maxSubarraySumModulo };
+module.exports = maxSubarraySumModulo;

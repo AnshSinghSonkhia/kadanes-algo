@@ -24,4 +24,4 @@ function maxAverageSubarray(arr) {
     return { maxAvg: maxSum / (bestEnd - bestStart + 1), subarray: arr.slice(bestStart, bestEnd + 1) };
 }
 
-module.exports = { maxAverageSubarray };
+module.exports = maxAverageSubarray;

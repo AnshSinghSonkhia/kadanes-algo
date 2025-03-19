@@ -11,4 +11,4 @@ function maxSubarraySumSkippingK(arr, k) {
     return Math.max(include, exclude);
 }
 
-module.exports = { maxSubarraySumSkippingK };
+module.exports = maxSubarraySumSkippingK;

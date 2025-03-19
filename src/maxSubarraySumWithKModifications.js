@@ -12,4 +12,4 @@ function maxSubarraySumWithKModifications(arr, k, val) {
     return maxSum;
 }
 
-module.exports = { maxSubarraySumWithKModifications };
+module.exports = maxSubarraySumWithKModifications;
