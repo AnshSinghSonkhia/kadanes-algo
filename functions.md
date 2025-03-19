@@ -25,9 +25,16 @@ Description: Handles cases where the input array is concatenated k times and fin
 9. Kadane’s Algorithm for Maximum Product Subarray
 Function: maxProductSubarray(arr: number[]): number
 Description: Uses a modified Kadane’s Algorithm to find the contiguous subarray with the maximum product.
-10. Kadane’s Algorithm for Longest Subarray with Sum >= Target
+
+<!-- 10. Kadane’s Algorithm for Longest Subarray with Sum >= Target
 Function: longestSubarrayWithSumAtLeast(arr: number[], target: number): number[]
-Description: Returns the longest contiguous subarray where the sum is at least target.
+Description: Returns the longest contiguous subarray where the sum is at least target. -->
+
+10. Sliding Window Algorithm for Smallest Subarray with Sum ≥ Target  
+**Function:** `smallestSubarrayWithSumAtLeast(arr: number[], target: number): number[]`  
+**Description:** Returns the **smallest** contiguous subarray where the sum is at least `target`.  
+**Algorithm:** Uses a **sliding window** approach to efficiently find the smallest subarray in **O(n)** time.
+
 11. Kadane’s Algorithm for Finding All Maximum Subarrays
 Function: allMaxSubarrays(arr: number[]): number[][]
 Description: Returns all subarrays that have the maximum possible sum.
